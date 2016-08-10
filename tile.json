@@ -1,0 +1,10 @@
+{
+	"action" : {
+		"type": "url",
+		"text" : "Add a Data Service",
+		"link": "http://bluemix.net",
+		"description" : "Add a new data service to your project"
+	},
+	"image" : "https://raw.githubusercontent.com/mven/CodeEval4/049cc26b6cea9f6aa650ac3e1124aa2e4e5bbb57/yellow.png",
+	"icon" : "https://raw.githubusercontent.com/mven/CodeEval4/master/yellow-icon.png"
+}
