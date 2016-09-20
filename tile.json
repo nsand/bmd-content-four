@@ -3,7 +3,9 @@
 		"type": "url",
 		"text" : "UI Starter - Store Catalog",
 		"link": "../create-project",
-		"description" : "Use the Store Catalog UI Starter to create your project"
+		"description" : "Use the Store Catalog UI Starter to create your project",
+		"newTab" : false,
+		"altText" : "UI Starter - Store Catalog"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/temp_store_catalog.png",
 	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/temp_store_catalog.png"
