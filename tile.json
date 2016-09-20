@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Add a Data Service",
-		"link": "http://bluemix.net",
-		"description" : "Add a new data service to your project"
+		"text" : "UI Starter - Store Catalog",
+		"link": "../create-project",
+		"description" : "Use the Store Catalog UI Starter to create your project"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/yellow.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/yellow-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/temp_store_catalog.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/temp_store_catalog.png"
 }
