@@ -1,4 +1,3 @@
-# New Data Features
-## Enhance your app with more data features
+# UI Starter - Store Catalog
 
-Spend more time on your data model, less time capacity planning. Quickly add a data service to your project to enhance your application.
+Choose the Store Catalog UI Starter to create your project. You can review store products on sale, including store stock and contact sections.
