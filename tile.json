@@ -7,6 +7,6 @@
 		"newTab" : false,
 		"altText" : "UI Starter - Store Catalog"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg"
+	"image" : "https://rawgit.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg",
+	"icon" : "https://rawgit.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg"
 }
