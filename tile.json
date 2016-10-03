@@ -10,7 +10,7 @@
 	"alternateAction" : {
 		"type": "url",
 		"text" : "Get Started",
-		"link": "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
+		"link": "../create-project?starter=fb5e31a9-1186-4d46-939e-2f620f35b83b",
 		"description" : "Get Started with the Store Catalog project",
 		"newTab" : false,
 		"altText" : "Get Started"
